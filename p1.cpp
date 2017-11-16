@@ -7,8 +7,6 @@ using namespace std;
 unsigned long long fibo(int n)
 {
   unsigned long long q11,q12,q21,q22, // macierz Q
-                     p11,p12,p21,p22, // macierz P
-                     w11,w12,w21,w22; // macierz W
 
   if(n < 2) return n;
 
