@@ -13,7 +13,7 @@ int main()
 
   srand((unsigned)time(NULL));
 
-  // Przygotowujemy tablicê Z[]
+  // Przygotomy tablicê Z[]
 
   for(i = 0; i < N; i++) Z[i] = rand() % 1000;
 
