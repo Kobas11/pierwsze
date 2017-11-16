@@ -9,6 +9,7 @@ int Szukaj(int T[], int n, int k, int p)
   T[n] = k;
   for(i = p; T[i] != k; i++) ;
   if(i == n) return -1; else return i;
+	//kom
 }
 
 int main()
