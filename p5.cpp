@@ -11,6 +11,7 @@ int main()
 {
   int Z[N],i,maxZ,minZ;
 int xa;
+int xa1;
 
   srand((unsigned)time(NULL));
   for(i = 0; i < N; i++) Z[i] = rand() % 10000;
