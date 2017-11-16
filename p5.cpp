@@ -10,6 +10,7 @@ const int N = 15;
 int main()
 {
   int Z[N],i,maxZ,minZ;
+int xa;
 
   srand((unsigned)time(NULL));
   for(i = 0; i < N; i++) Z[i] = rand() % 10000;
