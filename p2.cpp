@@ -1,11 +1,11 @@
 #include <iostream>
 #include <iomanip>
 #include <cmath>
-#define s 9
 
 using namespace std;
 
 const double eps = 1e-12;
+const double eps1 = 1e-12;
 
 // Funkcja dokonuje rozk³adu LU macierzy A
 //----------------------------------------
