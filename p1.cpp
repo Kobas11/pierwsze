@@ -1,4 +1,4 @@
-#include <iostream> // komentarz
+#include <iostream> // komentarz komb
 
 using namespace std;
 
