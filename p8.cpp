@@ -4,8 +4,6 @@ using namespace std;
 
 int Szukaj(int T[], int n, int k, int p)
 {
-  int i;
-
   T[n] = k;
   for(i = p; T[i] != k; i++) ;
   if(i == n) return -1; else return i;
