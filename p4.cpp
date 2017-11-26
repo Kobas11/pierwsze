@@ -9,7 +9,7 @@ const int N  = 80;  // d³ugoœæ ³añcucha s
 const int M  =  5;  // d³ugoœæ wzorca p
 const int zp = 65;  // kod pierwszego znaku alfabetu
 const int zk = 66;  // kod ostatniego znaku alfabetu
-
+//dadas
 int main()
 {
   string s,p;
