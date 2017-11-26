@@ -6,7 +6,7 @@
 using namespace std;
 
 const int N = 20;
-//kom
+//kom 2
 int main()
 {
   int Z[N + 1],i,j,v,x;
