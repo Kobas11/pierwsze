@@ -5,6 +5,7 @@
 using namespace std;
 
 const double eps = 1e-12;
+const double eps1 = 1e-12;
 
 //--------------------------------------
 bool ludist(int n, double ** A)
