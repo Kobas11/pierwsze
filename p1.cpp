@@ -2,7 +2,6 @@
 
 using namespace std;
 
-// Oblicza n-t¹ liczbê Fibonacciego
 //---------------------------------
 unsigned long long fibo(int n)
 {
