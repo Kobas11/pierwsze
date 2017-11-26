@@ -6,7 +6,7 @@
 using namespace std;
 
 const int N = 15;
-
+//Zmiana
 int main()
 {
   int Z[N],i,maxZ,minZ;
