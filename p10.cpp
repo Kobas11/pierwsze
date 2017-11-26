@@ -31,4 +31,4 @@ void l_merge(slistEl * & h1, slistEl * & h2, slistEl * & h)
   }
   l_pop_front(h);
 } 
-//komentarz
+//komentarz 2
